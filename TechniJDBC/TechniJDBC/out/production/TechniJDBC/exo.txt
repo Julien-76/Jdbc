@@ -1,0 +1,13 @@
+Exercice
+
+Créer la logique complète pour l'ajout de la table Moteur
+(DTO, Mapper, Service)
+Créer la table depuis PGAdmin 4
+
+Un moteur est composé de
+ - ID (SERIAL)
+ - Cylindrée (INT)
+ - Carburant (Essence, Diesel, Electrique) (ENUM voir channel #jdbc)
+ - Puissance (INT)
+
+Ajouter un moteur à la voiture et mettre à jour ce qu'il faut !!!
